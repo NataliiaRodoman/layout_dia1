@@ -1,4 +1,4 @@
-# **The landing was developed on the basis of the layout in Figma. **
+# **The landing was developed on the basis of the layout in Figma.**
 
 ## The following methods were used: 
   - HTML;
