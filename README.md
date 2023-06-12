@@ -1,5 +1,6 @@
-The landing was developed on the basis of the layout in Figma. 
-The following methods were used: 
+# **The landing was developed on the basis of the layout in Figma. **
+
+## The following methods were used: 
   - HTML;
   - JS;
   - SCSS - a preprocessor for CSS that extends its capabilities with features like variables, mixins, and nested styles;
@@ -8,4 +9,5 @@ The following methods were used:
   - Icon Fonts - fonts that include sets of icons and symbols that can be used on web pages instead of individual image files;
   - @import, @font-face;
   - Media queries.
-    - [DEMO LINK](https://nata-prog123.github.io/layout_dia1/)
+  
+ ## [DEMO LINK](https://nata-prog123.github.io/layout_dia1/)
