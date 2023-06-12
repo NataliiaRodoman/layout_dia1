@@ -10,4 +10,4 @@
   - @import, @font-face;
   - Media queries.
   
- ## [DEMO LINK](https://nata-prog123.github.io/layout_dia1/)
+ ## [DEMO LINK](https://NataliiaRodoman.github.io/layout_dia1/)
