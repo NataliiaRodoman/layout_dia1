@@ -1,4 +1,13 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://nata-prog123.github.io/    layout_dia1/)
+# **The landing was developed on the basis of the layout in Figma.**
+
+## The following methods were used: 
+  - HTML;
+  - JS;
+  - SCSS - a preprocessor for CSS that extends its capabilities with features like variables, mixins, and nested styles;
+  - BEM (Block, Element, Modifier) - a methodology for naming and organizing SCSS classes to create structured and reusable code;
+  - Flexbox - a module for creating flexible layouts on web pages;
+  - Icon Fonts - fonts that include sets of icons and symbols that can be used on web pages instead of individual image files;
+  - @import, @font-face;
+  - Media queries.
+  
+ ## [DEMO LINK](https://NataliiaRodoman.github.io/layout_dia1/)
